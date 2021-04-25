@@ -1,4 +1,8 @@
-
+Tecnologías utilizadas
+- React
+- Webpack
+- Babel
+- Lint
 ```
 npm install
 ```
